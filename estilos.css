@@ -1,8 +1,11 @@
 header {
     margin: 30px;
     padding: 15px;
+    text-align: center;
     /*background-image: url(ladrillos.jpeg);*/
     background-color: rgb(107, 107, 11);
+    border-style: solid;
+    border-width: 2px;
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
