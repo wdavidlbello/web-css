@@ -4,11 +4,10 @@ header {
     text-align: center;
     /*background-image: url(ladrillos.jpeg);*/
     background-color: rgb(107, 107, 11);
-    border: 5px dashed #f50606;
-    border-radius: 20px;
-    outline: 2px solid #e99f9f;
-    outline-offset: 15px;
-
+    border: 29px solid #f50606;
+    border-image-source: url(ladrillos.jpeg);
+    border-image-slice: 29;
+    border-image-repeat: round;
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
