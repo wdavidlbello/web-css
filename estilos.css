@@ -1,0 +1,23 @@
+#titulo {
+    font: bold 40px Lilita, Verdana, sans-serif;
+    /*color:  #00AABB;
+    color:rgb(0,165,180);*/
+    color:hsl(0, 72%, 53%);
+}
+
+#descripcion {
+text-align: center;
+width: 200px;
+height: 100px;
+overflow: scroll;
+}
+
+a {
+    text-decoration: none;
+    color:blue;
+}
+
+@font-face {
+    font-family: Lilita;
+    src: url("LilitaOne-Regular.ttf");
+}
