@@ -4,8 +4,9 @@ header {
     text-align: center;
     /*background-image: url(ladrillos.jpeg);*/
     background-color: rgb(107, 107, 11);
-    border-style: solid;
-    border-width: 2px;
+    border: 5px dashed #f50606;
+    border-radius: 20px;
+
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
