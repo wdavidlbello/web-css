@@ -6,6 +6,8 @@ header {
     background-color: rgb(107, 107, 11);
     border: 5px dashed #f50606;
     border-radius: 20px;
+    outline: 2px solid #e99f9f;
+    outline-offset: 15px;
 
 }
 #titulo {
