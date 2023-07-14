@@ -1,7 +1,8 @@
 header {
     margin: 30px;
     padding: 15px;
-    background-image: url(ladrillos.jpeg);
+    /*background-image: url(ladrillos.jpeg);*/
+    background-color: rgb(107, 107, 11);
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
