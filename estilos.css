@@ -1,10 +1,16 @@
 header {
-    margin: 30px;
+    margin: 30px 30px 100px 30px;
     padding: 20px;
     text-align: center;
     background-color: #e3fa16;
     filter: drop-shadow(30px 30px 20px #b96f0e)
     
+}
+img {
+    margin:20px;
+    padding: 20px;
+    filter:drop-shadow(20px 20px 20px #523abe)
+
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
