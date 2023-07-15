@@ -3,13 +3,16 @@ header {
     padding: 20px;
     text-align: center;
     background-color: #e3fa16;
-    filter: sepia(5)
+    filter: drop-shadow(30px 30px 20px #b96f0e);
+    transform: scale(.5, 1);
+    
     
 }
 img {
     margin:20px;
     padding: 20px;
-    filter:sepia(5.5);
+    filter:opacity(0.5);
+   
 
 }
 #titulo {
