@@ -2,14 +2,14 @@ header {
     margin: 30px;
     padding: 15px;
     text-align: center;
-    background-color: rgb(203, 200, 211);
-    border: 2px solid #b97777;
-    box-shadow: rgb(89, 61, 167) 0px 0px 40px inset;
+    border: 5px solid #d42828;
+    background: -webkit-linear-gradient(left, #FFFFFF,#d8f74d);
     
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
-    color:hsl(86, 79%, 27%);
+    color:hsl(4, 72%, 41%);
+    
     
 }
 
