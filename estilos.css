@@ -1,7 +1,14 @@
+header {
+    margin: 30px;
+    padding: 20px;
+    border: 10px solid;
+    text-align: center;
+    background-color: #e3fa16;
+    filter: blur(1px);
+    
+}
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
-    /*color:  #00AABB;
-    color:rgb(0,165,180);*/
     color:hsl(0, 72%, 53%);
 }
 
