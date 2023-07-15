@@ -2,19 +2,15 @@ header {
     margin: 30px;
     padding: 15px;
     text-align: center;
-    /*background-image: url(ladrillos.jpeg);*/
-    background-color: rgb(107, 107, 11);
-    border: 29px solid #f50606;
-    border-image-source: url(ladrillos.jpeg);
-    border-image-slice: 29;
-    border-image-repeat: round;
+    background-color: rgb(89, 61, 167);
+    border: 2px solid #b97777;
+    box-shadow: rgb(89, 61, 167) 5px 5px 20px 10px;
+    
 }
 #titulo {
     font: bold 40px Lilita, Verdana, sans-serif;
-    /*color:  #00AABB;
-    color:rgb(0,165,180);*/
-    color:hsl(0, 72%, 53%);
-    background-color: #c5e60a;
+    color:hsl(86, 89%, 48%);
+    
 }
 
 #descripcion {
