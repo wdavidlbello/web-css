@@ -3,11 +3,15 @@ header {
     padding: 20px;
     text-align: center;
     background-color: #e3fa16;
-    filter: drop-shadow(30px 30px 20px #b96f0e) sepia(0.2);
+    transition: all 0.2s ease-out 0s;
     /*La función rotate3d() crea una rotación del elemento 
     según el eje marcado por el vector resultante
     de las coordenadas x, y (y) z*/
-    transform: rotate3d(0,0,1,250deg); 
+    
+}
+header:hover{
+    transform: scale(1.2, 1.2);
+    filter: drop-shadow(30px 30px 20px #b96f0e) sepia(0.2);
 }
 
 img {
