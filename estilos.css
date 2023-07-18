@@ -14,6 +14,33 @@ header:hover{
     filter: drop-shadow(30px 30px 20px #b96f0e) sepia(0.2);
 }
 
+div {
+    margin: 20px;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #858faa;
+    border-radius: 40px; 
+    background-color: #1606a7;
+    animation: mianimacion 2s ease-in-out 0s infinite normal none ;
+}
+
+@keyframes mianimacion {
+    22% {
+        transform: translate(60px, 0);
+        background-color: #382ca7;
+    }
+    44% {
+        transform: translate(60px, -10px);
+        background-color: #544aa8;
+    }
+    66% {
+        transform: translate(0, -10px);
+        background-color: #8985ad;
+    }
+    
+    
+}
 img {
     margin:20px;
     padding: 20px;
